@@ -1,0 +1,12 @@
+.c-menu{
+    width: 24px;
+    height: 24px;
+    background-image: url("../imagens_biblioteca_start\ \(2\)/Menu.svg");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.cabeçalho{
+    background-color: var(--branco);
+
+}
